@@ -8,7 +8,7 @@ package sandbox;
 import java.util.Scanner;
 
 /**
- * This is a test of Git and Github  #2 This small edit should pull down
+ * This is a test of Git and Github  #3 This small edit should pull down
  * @author Michael
  */
 public class Sandbox {   // this is a test of the editor pulling down
